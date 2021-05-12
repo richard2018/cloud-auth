@@ -1,7 +1,0 @@
-com/zte/mapper/PayInfoMapper.class
-com/zte/support/DruidDataSourceProperties.class
-META-INF/spring-configuration-metadata.json
-com/zte/druidconfig/SpringDruidConfig.class
-com/zte/TulingvipMsAlibabaDaoApplication.class
-com/zte/mapper/OrderInfoMapper.class
-com/zte/mapper/ProductInfoMapper.class
